@@ -1,4 +1,4 @@
-# 简单的搭建视频教程，微信：38091476 说明来自github
+# 感谢作者的开源，比OwnCloud简单，exe直接运行服务器，无需额外配置数据库和web服务器
 
 <h1 align="center">
   <br>
@@ -123,3 +123,5 @@ GPL V3
 ---
 > GitHub [@HFO4](https://github.com/HFO4) &nbsp;&middot;&nbsp;
 > Twitter [@abslant00](https://twitter.com/abslant00)
+
+### 简单的搭建视频教程，头条可以搜索“自建网盘CloudReve搭建教程”
